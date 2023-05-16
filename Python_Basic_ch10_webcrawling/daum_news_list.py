@@ -17,7 +17,7 @@ for i, tag in enumerate(title_list):
     print(f"URL: {new_url}")
     print(f"{i+1} 뉴스 제목: {title}")
     print("=" * 100)
-    print(f"{i+1} 뉴스 제목: {content}")
+    print(f"{i+1} 뉴스 본문: {content}")
 
 
 

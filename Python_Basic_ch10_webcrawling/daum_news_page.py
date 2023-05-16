@@ -20,4 +20,4 @@ for page_num in range(1, page+1):
         print(f"URL: {new_url}")
         print(f"{cnt} 뉴스 제목: {title}")
         print("=" * 100)
-        print(f"{cnt} 뉴스 제목: {content}")
+        print(f"{cnt} 뉴스 본문: {content}")
