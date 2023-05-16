@@ -15,3 +15,5 @@ def choice_menu_num(max_num):
         else:
             print(f"경고: 1~{max_num} 사이의 값만 입력해주세요.")
     return menu_num
+
+
